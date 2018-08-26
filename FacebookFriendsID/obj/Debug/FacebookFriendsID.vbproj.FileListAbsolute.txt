@@ -1,0 +1,12 @@
+C:\VB Project\FacebookFriendsID\FacebookFriendsID\bin\Debug\FacebookFriendsID.exe.config
+C:\VB Project\FacebookFriendsID\FacebookFriendsID\bin\Debug\FacebookFriendsID.exe
+C:\VB Project\FacebookFriendsID\FacebookFriendsID\bin\Debug\FacebookFriendsID.pdb
+C:\VB Project\FacebookFriendsID\FacebookFriendsID\bin\Debug\FacebookFriendsID.xml
+C:\VB Project\FacebookFriendsID\FacebookFriendsID\obj\Debug\FacebookFriendsID.vbprojResolveAssemblyReference.cache
+C:\VB Project\FacebookFriendsID\FacebookFriendsID\obj\Debug\FacebookFriendsID.Form1.resources
+C:\VB Project\FacebookFriendsID\FacebookFriendsID\obj\Debug\FacebookFriendsID.Resources.resources
+C:\VB Project\FacebookFriendsID\FacebookFriendsID\obj\Debug\FacebookFriendsID.vbproj.GenerateResource.Cache
+C:\VB Project\FacebookFriendsID\FacebookFriendsID\obj\Debug\FacebookFriendsID.vbproj.CoreCompileInputs.cache
+C:\VB Project\FacebookFriendsID\FacebookFriendsID\obj\Debug\FacebookFriendsID.exe
+C:\VB Project\FacebookFriendsID\FacebookFriendsID\obj\Debug\FacebookFriendsID.xml
+C:\VB Project\FacebookFriendsID\FacebookFriendsID\obj\Debug\FacebookFriendsID.pdb
