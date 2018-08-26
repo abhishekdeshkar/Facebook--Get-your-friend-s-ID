@@ -1,4 +1,4 @@
-# Facebook-Get-your-Friend-s-IDs
+# Facebook-Get-your-Friends-IDs
 
 This is a marking software which allows you to fetch your Facebook friend's ID.
 
